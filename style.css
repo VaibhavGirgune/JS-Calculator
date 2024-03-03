@@ -1,6 +1,7 @@
 body{
-    background-image: url("/dark-background-abstract-background-network-3d-background-7680x4320-8324.png");
+    background-image: url("/IMG2.avif");
     background-size: 100%;
+    
 
 }
 .container{
@@ -8,13 +9,13 @@ body{
     height: 480px;
     position: relative;
     left: 350px;
-    top:70px;
+    top:30px;
 }
 
 .glass{
     background-color: rgba(360deg 16, 15, 15, 0.616);
-    backdrop-filter: blur(8px);
-    -webkit-backdrop-filter:blur(8px) ;
+    backdrop-filter: blur(6px);
+    -webkit-backdrop-filter:blur(6px) ;
     border-radius: 20px;
     border: 2px solid rgb(61, 57, 57);
 }
@@ -34,7 +35,8 @@ body{
     height: 50px;
     padding: 10px;
     margin-bottom: 20px;
-    font-size: 20px;
+    font-size: 30px;
+    text-align: right;
 }
 #equal{
     position: relative;
